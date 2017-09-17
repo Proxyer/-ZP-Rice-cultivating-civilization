@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+	<!-- ================ 燃料パッチ =============== -->
+	<!-- ========== バニラ ========== -->
+	<!-- 火力発電 -->
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Buildings/ThingDef[defName = "FueledGenerator"]/comps/li[@Class = "CompProperties_Refuelable"]/fuelFilter/thingDefs</xpath>
+		<value>
+			<li>FuelStraw</li>
+			<li>Momigalite</li>
+		</value>
+	</Operation>
+	<!--　カマド　-->
+	<Operation Class="PatchOperationAdd">
+		<xpath>/ThingDefs/ThingDef[defName = "FueledStove"]/comps/li[@Class = "CompProperties_Refuelable"]/fuelFilter/thingDefs</xpath>
+		<value>
+			<li>FuelStraw</li>
+			<li>Momigalite</li>
+		</value>
+	</Operation>
+	<!-- 工作台 -->
+	<Operation Class="PatchOperationAdd">
+		<xpath>/ThingDefs/ThingDef[DefName = "FueledSmithy"]/comps/li[@Class = "CompProperties_Refuelable"]/fuelFilter/thingDefs</xpath>
+		<value>
+			<li>FuelStraw</li>
+			<li>Momigalite</li>
+		</value>
+	</Operation>
+</Patch>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HedMochi.label>【速】モチパワー</HedMochi.label>
+  <HedMochi.stages.0.label>餅を食べた</HedMochi.stages.0.label>
+
+  <HedMochi2.label>【技】モチパワー</HedMochi2.label>
+  <HedMochi2.stages.0.label>餅を食べた</HedMochi2.stages.0.label>
+
+  <HedPuffedRice.label>私の体に爆発力が宿る！！</HedPuffedRice.label>
+  <HedPuffedRice.stages.0.label>ポン菓子を食べた</HedPuffedRice.stages.0.label>
+
+
+</LanguageData>

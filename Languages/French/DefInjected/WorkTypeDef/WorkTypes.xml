@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RiceProcessing.label>脱穀</RiceProcessing.label>
+  <RiceProcessing.description>脱穀することで稲穂を玄米にかえる。精米することで玄米から白米にかえる。</RiceProcessing.description>
+  <RiceProcessing.labelShort>脱穀</RiceProcessing.labelShort>
+  <RiceProcessing.pawnLabel>脱穀精米</RiceProcessing.pawnLabel>
+  <RiceProcessing.gerundLabel>脱穀精米</RiceProcessing.gerundLabel>
+  <RiceProcessing.verb>脱穀精米</RiceProcessing.verb>
+
+
+</LanguageData>

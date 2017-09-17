@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ReUplandRice.label>陆稻种植</ReUplandRice.label>
+  <ReUplandRice.description>改良在陆地上种植米稻的技术，增强生产力。</ReUplandRice.description>
+
+  <ReWetlandRice.label>水稻种植</ReWetlandRice.label>
+  <ReWetlandRice.description>通过发展水稻田技术以进一步提高大米的生产力。</ReWetlandRice.description>
+
+
+</LanguageData>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 燃料 -->
+
+  <Momigalite.label>谷壳炭</Momigalite.label>
+  <Momigalite.description>可以用作燃料。</Momigalite.description>
+
+  <FuelStraw.label>秸秆燃料</FuelStraw.label>
+  <FuelStraw.description>可以用作燃料。</FuelStraw.description>
+
+
+  <!-- 米俵 -->
+
+  <StrawRiceBag_RawRice.label>米袋(生米)</StrawRiceBag_RawRice.label>
+  <StrawRiceBag_RawRice.description>装有大量生米的袋子。可以作为农产品出售。</StrawRiceBag_RawRice.description>
+
+  <StrawRiceBag_RiceMomi.label>米袋(籾米)</StrawRiceBag_RiceMomi.label>
+  <StrawRiceBag_RiceMomi.description>装有籾米的袋子。可以作为农产品出售。</StrawRiceBag_RiceMomi.description>
+
+  <StrawRiceBag_BrownRice.label>米袋(糙米)</StrawRiceBag_BrownRice.label>
+  <StrawRiceBag_BrownRice.description>装有糙米的袋子，可以作为特产高价出售。</StrawRiceBag_BrownRice.description>
+
+  <StrawRiceBag_WhiteRice.label>米袋(白米)</StrawRiceBag_WhiteRice.label>
+  <StrawRiceBag_WhiteRice.description>装有白米的袋子，可以作为特产以非常高的价格出售。</StrawRiceBag_WhiteRice.description>
+
+
+  <!-- 肥料 -->
+
+  <R_Smoldering.label>燻炭</R_Smoldering.label>
+  <R_Smoldering.description>在建设稻田时可以用到的肥料。</R_Smoldering.description>
+
+  <R_Compost.label>堆肥</R_Compost.label>
+  <R_Compost.description>在建设稻田时可以用到的肥料。</R_Compost.description>
+
+
+  <!-- 飼料 -->
+
+  <Manger.label>饲草</Manger.label>
+  <Manger.description>为家养动物准备的饲料，拥有比较高的营养值，相当正义。</Manger.description>
+
+</LanguageData>

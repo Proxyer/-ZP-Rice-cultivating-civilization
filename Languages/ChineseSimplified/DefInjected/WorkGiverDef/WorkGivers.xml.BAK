@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Process_Rice.label>脱穀精米/Process_Rice.label>
+  <Process_Rice.verb>加工</Process_Rice.verb>
+  <Process_Rice.gerund>加工中</Process_Rice.gerund>
+
+  <DoBillsRiceCook.label>烹煮米饭</DoBillsRiceCook.label>
+  <DoBillsRiceCook.verb>烹煮</DoBillsRiceCook.verb>
+  <DoBillsRiceCook.gerund>正在烹煮中</DoBillsRiceCook.gerund>
+
+
+</LanguageData>

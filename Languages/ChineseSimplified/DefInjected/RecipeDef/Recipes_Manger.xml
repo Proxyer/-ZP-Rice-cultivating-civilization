@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 飼い葉作成 -->
+
+  <MakeR_Manger10.label>饲草(10)</MakeR_Manger10.label>
+  <MakeR_Manger10.description>将秸秆、糠麸以及一些谷物混合制成粗制的食料，用以喂养动物。</MakeR_Manger10.description>
+  <MakeR_Manger10.jobString>制作制作饲草</MakeR_Manger10.jobString>
+
+  <MakeR_Manger50.label>饲草(50)</MakeR_Manger50.label>
+  <MakeR_Manger50.description>将秸秆、糠麸以及一些谷物混合制成粗制的食料，用以喂养动物。</MakeR_Manger50.description>
+  <MakeR_Manger50.jobString>正在制作饲草</MakeR_Manger50.jobString>
+
+  <MakeR_Manger100.label>饲草(100)</MakeR_Manger100.label>
+  <MakeR_Manger100.description>将秸秆、糠麸以及一些谷物混合制成粗制的食料，用以喂养动物。</MakeR_Manger100.description>
+  <MakeR_Manger100.jobString>正在制作饲草</MakeR_Manger100.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 調味料 -->
+
+  <R_CookNaturalSalt.label>天然盐(10)</R_CookNaturalSalt.label>
+  <R_CookNaturalSalt.description>从含盐分的水中蒸煮提取出来的精盐</R_CookNaturalSalt.description>
+  <R_CookNaturalSalt.jobString>正在提取盐</R_CookNaturalSalt.jobString>
+
+  <R_CookSyrup10.label>米糖(10)</R_CookSyrup10.label>
+  <R_CookSyrup10.description>通过熬煮大米来获得米糖浆</R_CookSyrup10.description>
+  <R_CookSyrup10.jobString>正在制作米糖</R_CookSyrup10.jobString>
+
+
+</LanguageData>

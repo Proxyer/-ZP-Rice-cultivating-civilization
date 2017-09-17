@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeR_SeasonedMeat5.label>腌制肉(5)</MakeR_SeasonedMeat5.label>
+  <MakeR_SeasonedMeat5.description> 通过加入调料腌制来消除肉类本身的异味。腌制过的肉相对生肉来说有稍微高一点的营养价值，以及更长的储藏时间。</MakeR_SeasonedMeat5.description>
+  <MakeR_SeasonedMeat5.jobString>正在腌制生肉</MakeR_SeasonedMeat5.jobString>
+
+  <MakeR_SeasonedMeat20.label>腌制肉(20)</MakeR_SeasonedMeat20.label>
+  <MakeR_SeasonedMeat20.description> 通过加入调料腌制来消除肉类本身的异味。腌制过的肉相对生肉来说有稍微高一点的营养价值，以及更长的储藏时间。</MakeR_SeasonedMeat20.description>
+  <MakeR_SeasonedMeat20.jobString>正在腌制生肉</MakeR_SeasonedMeat20.jobString>
+
+  <MakeR_SeasonedMeat50.label>腌制肉(50)</MakeR_SeasonedMeat50.label>
+  <MakeR_SeasonedMeat50.description> 通过加入调料腌制来消除肉类本身的异味。腌制过的肉相对生肉来说有稍微高一点的营养价值，以及更长的储藏时间。</MakeR_SeasonedMeat50.description>
+  <MakeR_SeasonedMeat50.jobString>正在腌制生肉</MakeR_SeasonedMeat50.jobString>
+
+  <CookFreezeMochi10.label>冻米饼(10)</CookFreezeMochi10.label>
+  <CookFreezeMochi10.description>把米饼浸湿，冷冻，最后用凉风风干。这样处理过的米饼可以储藏更长时间。</CookFreezeMochi10.description>
+  <CookFreezeMochi10.jobString>正在制作冻米饼</CookFreezeMochi10.jobString>
+
+  <CookFreezeMochi20.label>冻米饼(20)</CookFreezeMochi20.label>
+  <CookFreezeMochi20.description>把米饼浸湿，冷冻，最后用凉风风干。这样处理过的米饼可以储藏更长时间。</CookFreezeMochi20.description>
+  <CookFreezeMochi20.jobString>正在制作冻米饼</CookFreezeMochi20.jobString>
+
+  <CookFreezeMochi50.label>冻米饼(50)/CookFreezeMochi50.label>
+  <CookFreezeMochi50.description>把米饼浸湿，冷冻，最后用凉风风干。这样处理过的米饼可以储藏更长时间。</CookFreezeMochi50.description>
+  <CookFreezeMochi50.jobString>正在制作冻米饼</CookFreezeMochi50.jobString>
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 籾摺り臼　米(籾)⇒玄米 -->
+
+  <MakeRiceStoneSlurryRice10.label>籾米⇒糙米(10)</MakeRiceStoneSlurryRice10.label>
+  <MakeRiceStoneSlurryRice10.description>将籾米加工分离出糙米和谷壳。</MakeRiceStoneSlurryRice10.description>
+  <MakeRiceStoneSlurryRice10.jobString>正在将籾米去壳</MakeRiceStoneSlurryRice10.jobString>
+
+  <MakeRiceStoneSlurryRice50.label>籾米⇒糙米(50)</MakeRiceStoneSlurryRice50.label>
+  <MakeRiceStoneSlurryRice50.description>将籾米加工分离出糙米和谷壳。</MakeRiceStoneSlurryRice50.description>
+  <MakeRiceStoneSlurryRice50.jobString>正在将籾米去壳</MakeRiceStoneSlurryRice50.jobString>
+
+
+</LanguageData>

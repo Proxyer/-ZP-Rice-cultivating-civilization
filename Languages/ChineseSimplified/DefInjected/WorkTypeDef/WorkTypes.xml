@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RiceProcessing.label>稻米加工</RiceProcessing.label>
+  <RiceProcessing.description>【脱穀】就是将籾米加工成糙米，而【精米】就是将糙米加工成白米，以此类推啦。</RiceProcessing.description>
+  <RiceProcessing.labelShort>脱穀</RiceProcessing.labelShort>
+  <RiceProcessing.pawnLabel>脱穀精米</RiceProcessing.pawnLabel>
+  <RiceProcessing.gerundLabel>脱穀精米</RiceProcessing.gerundLabel>
+  <RiceProcessing.verb>脱穀精米</RiceProcessing.verb>
+
+
+</LanguageData>

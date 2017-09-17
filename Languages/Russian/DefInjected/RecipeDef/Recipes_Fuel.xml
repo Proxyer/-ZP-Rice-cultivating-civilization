@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 燃料作成 -->
+
+  <MakeMomigalite10.label>モミガライト(10)</MakeMomigalite10.label>
+  <MakeMomigalite10.description>籾殻を燃料に加工する</MakeMomigalite10.description>
+  <MakeMomigalite10.jobString>モミガライトを作る</MakeMomigalite10.jobString>
+
+  <MakeMomigalite50.label>モミガライ(50)</MakeMomigalite50.label>
+  <MakeMomigalite50.description>籾殻を燃料に加工する</MakeMomigalite50.description>
+  <MakeMomigalite50.jobString>モミガライトを作る</MakeMomigalite50.jobString>
+
+  <MakeMomigalite100.label>モミガライト(100)</MakeMomigalite100.label>
+  <MakeMomigalite100.description>籾殻を燃料に加工する</MakeMomigalite100.description>
+  <MakeMomigalite100.jobString>モミガライトを作る</MakeMomigalite100.jobString>
+
+  <MakeFuelStraw10.label>燃料用藁(10)</MakeFuelStraw10.label>
+  <MakeFuelStraw10.description>藁を燃料に加工する</MakeFuelStraw10.description>
+  <MakeFuelStraw10.jobString>燃料用藁を作る</MakeFuelStraw10.jobString>
+
+  <MakeFuelStraw50.label>燃料用藁(50)</MakeFuelStraw50.label>
+  <MakeFuelStraw50.description>藁を燃料に加工する</MakeFuelStraw50.description>
+  <MakeFuelStraw50.jobString>燃料用藁を作る</MakeFuelStraw50.jobString>
+
+  <MakeFuelStraw100.label>燃料用藁を作る(100)</MakeFuelStraw100.label>
+  <MakeFuelStraw100.description>藁を燃料に加工する</MakeFuelStraw100.description>
+  <MakeFuelStraw100.jobString>燃料用藁を作る</MakeFuelStraw100.jobString>
+
+
+</LanguageData>

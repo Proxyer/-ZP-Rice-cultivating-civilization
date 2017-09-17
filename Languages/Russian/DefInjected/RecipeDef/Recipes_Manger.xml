@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 飼い葉作成 -->
+
+  <MakeR_Manger10.label>飼い葉(10)</MakeR_Manger10.label>
+  <MakeR_Manger10.description>藁と米ぬか、穀物をあわせて動物の飼料(高栄養素)を作る。</MakeR_Manger10.description>
+  <MakeR_Manger10.jobString>飼い葉を作る</MakeR_Manger10.jobString>
+
+  <MakeR_Manger50.label>飼い葉(50)</MakeR_Manger50.label>
+  <MakeR_Manger50.description>藁と米ぬか、穀物をあわせて動物の飼料(高栄養素)を作る。</MakeR_Manger50.description>
+  <MakeR_Manger50.jobString>飼い葉を作る</MakeR_Manger50.jobString>
+
+  <MakeR_Manger100.label>飼い葉(100)</MakeR_Manger100.label>
+  <MakeR_Manger100.description>藁と米ぬか、穀物をあわせて動物の飼料(高栄養素)を作る。</MakeR_Manger100.description>
+  <MakeR_Manger100.jobString>飼い葉を作る</MakeR_Manger100.jobString>
+
+
+</LanguageData>

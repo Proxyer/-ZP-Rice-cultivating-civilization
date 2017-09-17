@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 豪華な食事　カレーライス -->
+
+  <CookWRJPCurryRice8.label>カレーライス(8)</CookWRJPCurryRice8.label>
+  <CookWRJPCurryRice8.description>カレーライスを8個作る</CookWRJPCurryRice8.description>
+  <CookWRJPCurryRice8.jobString>カレーライスを作る</CookWRJPCurryRice8.jobString>
+
+
+</LanguageData>

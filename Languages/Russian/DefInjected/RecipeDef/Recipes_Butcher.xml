@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeR_SeasonedMeat5.label>味付け肉(5)</MakeR_SeasonedMeat5.label>
+  <MakeR_SeasonedMeat5.description>調味料で臭みを消し栄養素と保存性を少し高めた味付け肉を作る。</MakeR_SeasonedMeat5.description>
+  <MakeR_SeasonedMeat5.jobString>味付け肉を作る</MakeR_SeasonedMeat5.jobString>
+
+  <MakeR_SeasonedMeat20.label>味付け肉(20)</MakeR_SeasonedMeat20.label>
+  <MakeR_SeasonedMeat20.description>調味料で臭みを消し栄養素と保存性を少し高めた味付け肉を作る。</MakeR_SeasonedMeat20.description>
+  <MakeR_SeasonedMeat20.jobString>味付け肉を作る</MakeR_SeasonedMeat20.jobString>
+
+  <MakeR_SeasonedMeat50.label>味付け肉(50)</MakeR_SeasonedMeat50.label>
+  <MakeR_SeasonedMeat50.description>調味料で臭みを消し栄養素と保存性を少し高めた味付け肉を作る。</MakeR_SeasonedMeat50.description>
+  <MakeR_SeasonedMeat50.jobString>味付け肉を作る</MakeR_SeasonedMeat50.jobString>
+
+  <CookFreezeMochi10.label>凍り餅(10)</CookFreezeMochi10.label>
+  <CookFreezeMochi10.description>餅を水に浸して凍らせたものを,寒風に晒して乾燥させ凍り餅を作る</CookFreezeMochi10.description>
+  <CookFreezeMochi10.jobString>凍り餅を作る</CookFreezeMochi10.jobString>
+
+  <CookFreezeMochi20.label>凍り餅(20)</CookFreezeMochi20.label>
+  <CookFreezeMochi20.description>餅を水に浸して凍らせたものを,寒風に晒して乾燥させ凍り餅を作る</CookFreezeMochi20.description>
+  <CookFreezeMochi20.jobString>凍り餅を作る</CookFreezeMochi20.jobString>
+
+  <CookFreezeMochi50.label>凍り餅(50)</CookFreezeMochi50.label>
+  <CookFreezeMochi50.description>餅を水に浸して凍らせたものを,寒風に晒して乾燥させ凍り餅を作る</CookFreezeMochi50.description>
+  <CookFreezeMochi50.jobString>凍り餅を作る</CookFreezeMochi50.jobString>
+
+
+</LanguageData>

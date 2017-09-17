@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PaddyField.label>水田</PaddyField.label>
+  <PaddyField.description>水稲を育てることが出来る水田。肥沃度200%\n泥,湿地,浅瀬にしか設置できないが豊富な水分と栄養素があるため、汎用型に比べると高性能です。</PaddyField.description>
+  <PaddyField_Blueprint.label>水田 (blueprint)</PaddyField_Blueprint.label>
+  <PaddyField_Frame.label>水田 (building)</PaddyField_Frame.label>
+  <PaddyField_Frame.description>水稲を育てることが出来る水田。肥沃度200%\n泥,湿地,浅瀬にしか設置できないが豊富な水分と栄養素があるため、汎用型に比べると高性能です。</PaddyField_Frame.description>
+
+  <PaddyField_GP.label>水田(汎用型)</PaddyField_GP.label>
+  <PaddyField_GP.description>水稲を育てることが出来る水田。肥沃度140%。\n水辺以外設置可能。</PaddyField_GP.description>
+  <PaddyField_GP_Blueprint.label>水田(汎用型) (blueprint)</PaddyField_GP_Blueprint.label>
+  <PaddyField_GP_Frame.label>水田(汎用型) (building)</PaddyField_GP_Frame.label>
+  <PaddyField_GP_Frame.description>水稲を育てることが出来る水田。肥沃度140%。\n水辺以外設置可能。</PaddyField_GP_Frame.description>
+
+
+</LanguageData>

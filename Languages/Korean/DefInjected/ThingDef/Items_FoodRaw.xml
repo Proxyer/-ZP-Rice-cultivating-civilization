@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <R_SeasonedMeat.label>味付け肉</R_SeasonedMeat.label>
+  <R_SeasonedMeat.description>調味料で肉の臭みを消して保存性を少し高めたお肉。\n生でも食べれて、調理にも使える。</R_SeasonedMeat.description>
+
+  <R_FreezeMochi.label>凍り餅</R_FreezeMochi.label>
+  <R_FreezeMochi.description>餅を水に浸して凍らせたものを寒風に晒して乾燥させた保存食。\n生でも食べれて、調理にも使える。</R_FreezeMochi.description>
+
+
+</LanguageData>

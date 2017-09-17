@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 調味料 -->
+
+  <R_CookNaturalSalt.label>天然塩(10)</R_CookNaturalSalt.label>
+  <R_CookNaturalSalt.description>塩分を含んだ水を煮詰めて塩を抽出する。</R_CookNaturalSalt.description>
+  <R_CookNaturalSalt.jobString>塩を抽出する。</R_CookNaturalSalt.jobString>
+
+  <R_CookSyrup10.label>米飴(10)</R_CookSyrup10.label>
+  <R_CookSyrup10.description>米を煮詰めて糖化させ米飴を作る</R_CookSyrup10.description>
+  <R_CookSyrup10.jobString>米飴を作る</R_CookSyrup10.jobString>
+
+
+</LanguageData>

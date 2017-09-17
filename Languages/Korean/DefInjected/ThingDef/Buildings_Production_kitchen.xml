@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Messtin.label>飯盒</Messtin.label>
+  <Messtin.description>ご飯を炊いたり簡単な調理をするのに使われる。\n最低限の設備しかないため調理速度が30%低下する。</Messtin.description>
+  <Messtin_Blueprint.label>飯盒 (blueprint)</Messtin_Blueprint.label>
+  <Messtin_Blueprint_Install.label>飯盒 (blueprint)</Messtin_Blueprint_Install.label>
+  <Messtin_Frame.label>飯盒 (building)</Messtin_Frame.label>
+  <Messtin_Frame.description>ご飯を炊いたり簡単な調理をするのに使われる。\n最低限の設備しかないため調理速度が30%低下する。</Messtin_Frame.description>
+
+  <IronPot.label>釜</IronPot.label>
+  <IronPot.description>ご飯を炊いたり汁物を作ったりする時に便利な調理台。</IronPot.description>
+  <IronPot_Blueprint.label>釜 (blueprint)</IronPot_Blueprint.label>
+  <IronPot_Blueprint_Install.label>釜 (blueprint)</IronPot_Blueprint_Install.label>
+  <IronPot_Frame.label>釜 (building)</IronPot_Frame.label>
+  <IronPot_Frame.description>ご飯を炊いたり汁物を作ったりする時に便利な調理台。</IronPot_Frame.description>
+
+  <RiceCooker.label>炊飯器</RiceCooker.label>
+  <RiceCooker.description>ご飯を炊いたり汁物を作ったりする時に便利な調理台。\n最新の調理器具が揃ってるので調理速度が30%上昇する。</RiceCooker.description>
+  <RiceCooker_Blueprint.label>炊飯器 (blueprint)</RiceCooker_Blueprint.label>
+  <RiceCooker_Blueprint_Install.label>炊飯器 (blueprint)</RiceCooker_Blueprint_Install.label>
+  <RiceCooker_Frame.label>炊飯器 (building)</RiceCooker_Frame.label>
+  <RiceCooker_Frame.description>ご飯を炊いたり汁物を作ったりする時に便利な調理台。\n最新の調理器具が揃ってるので調理速度が30%上昇する。</RiceCooker_Frame.description>
+
+
+</LanguageData>

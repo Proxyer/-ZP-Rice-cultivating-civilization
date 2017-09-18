@@ -9,8 +9,7 @@
   <UplandRice.description>畑で育成できる米。収穫の早さを重視しかつ収穫量微増できた品種。</UplandRice.description>
 
   <WetlandRice.label>Wetland rice</WetlandRice.label>
-  <WetlandRice.description>水田で育成できる米。稲穂に大量の米を実らすために改良したが、成長速度が犠牲になった品種。
-        </WetlandRice.description>
+  <WetlandRice.description>Semiaquatic rice that can be grown in paddy fields. A paddy field is a flooded parcel of arable land used for growing semiaquatic rice.\nThis breed rice can make bumper rice harvest, but instead the growth rate was sacrificed.</WetlandRice.description>
 
 
 </LanguageData>

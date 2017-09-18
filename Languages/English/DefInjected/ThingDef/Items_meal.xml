@@ -37,35 +37,7 @@
   <WR_Gyudon.label>Gyudon</WR_Gyudon.label>
   <WR_Gyudon.description>ご飯の上にがっつり肉を盛り付けた白米のどんぶり。</WR_Gyudon.description>
 
-  <WR_JPCurryRice.label>JP CurryRice</WR_JPCurryRice.label>
-  <WR_JPCurryRice.description>とある国では食べ方や食材を何にするかで戦争が起きるほど、皆が愛してやまない魅惑のカレーライス。</WR_JPCurryRice.description>
-
-
-  <!--<R_Rice.label>Brown Rice</R_Rice.label>-->
-  <!--<R_Rice.description>オカズが欲しいなんて言わずにお米そのままの味を楽しもう!!</R_Rice.description>-->
-  <!--<R_Rice_PR.label>Rice</R_Rice_PR.label>-->
-  <!--<R_Rice_PR.description>白米をじっくりと楽しむためにお椀によそられた最高の1杯</R_Rice_PR.description>-->
-  <!--<R_TKG.label>Brown Rice Raw egg on rice</R_TKG.label>-->
-  <!--<R_TKG.description>ご飯のままでも美味しいのに生卵をのせるという悪魔の所業の一品。</R_TKG.description>-->
-  <!--<R_TKG_PR.label>Raw egg on rice</R_TKG_PR.label>-->
-  <!--<R_TKG_PR.description>ご飯のままでも美味しいのに生卵をのせるという悪魔の所業の一品。</R_TKG_PR.description>-->
-  <!--<R_Onigiri.label>Brown rice Rice ball</R_Onigiri.label>-->
-  <!--<R_Onigiri.description>どこでも食べれる塩味のきいたおにぎり</R_Onigiri.description>-->
-  <!--<R_Onigiri_PR.label>Rice ball</R_Onigiri_PR.label>-->
-  <!--<R_Onigiri_PR.description>どこでも食べれる塩味のきいた白米のおにぎり</R_Onigiri_PR.description>-->
-  <!--<R_Bento.label>Brown rice Box lunch</R_Bento.label>-->
-  <!--<R_Bento.description>どこでも食べれるお弁当。</R_Bento.description>-->
-  <!--<R_Bento_PR.label>Box lunch</R_Bento_PR.label>-->
-  <!--<R_Bento_PR.description>どこでも食べれる白米のお弁当。</R_Bento_PR.description>-->
-  <!--<R_Jubako.label>Brown rice Lacquer box</R_Jubako.label>-->
-  <!--<R_Jubako.description>どこでも食べれる豪華なお弁当。</R_Jubako.description>-->
-  <!--<R_Jubako_PR.label>Lacquer box</R_Jubako_PR.label>-->
-  <!--<R_Jubako_PR.description>どこでも食べれる豪華で白米のお弁当。</R_Jubako_PR.description>-->
-  <!--<R_Gyudon.label>Brown rice Gyudon</R_Gyudon.label>-->
-  <!--<R_Gyudon.description>ご飯の上にがっつり肉を盛り付けたどんぶり。</R_Gyudon.description>-->
-  <!--<R_Gyudon_PR.label>Gyudon</R_Gyudon_PR.label>-->
-  <!--<R_Gyudon_PR.description>ご飯の上にがっつり肉を盛り付けた白米のどんぶり。</R_Gyudon_PR.description>-->
-  <!--<R_CurryRice.label>Japanese curry</R_CurryRice.label>-->
-  <!--<R_CurryRice.description>とある国では食べ方や食材を何にするかで戦争が起きるほど皆が愛してやまない魅惑のカレーライス。</R_CurryRice.description>-->
+  <WR_JPCurryRice.label>JP Curry rice</WR_JPCurryRice.label>
+  <WR_JPCurryRice.description>In some countries, everyone loves enchanting curry rice, so it will make meaningless battles with what to eat and food ingredients.</WR_JPCurryRice.description>
 
 </LanguageData>

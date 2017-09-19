@@ -1,31 +1,31 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Thresh_Polish.label>脱穀精米</Thresh_Polish.label>
+  <Thresh_Polish.label>thresh husk and polish rice</Thresh_Polish.label>
   <Thresh_Polish.verb>thresh and polish</Thresh_Polish.verb>
   <Thresh_Polish.gerund>threshing and polishing</Thresh_Polish.gerund>
 
-  <Threshing_Husk.label>脱穀</Threshing_Husk.label>
+  <Threshing_Husk.label>thresh husk</Threshing_Husk.label>
   <Threshing_Husk.verb>thresh</Threshing_Husk.verb>
   <Threshing_Husk.gerund>threshing</Threshing_Husk.gerund>
 
-  <Process_Rice.label>Threshing milled rice</Process_Rice.label>
+  <Process_Rice.label>threshing milled rice</Process_Rice.label>
   <Process_Rice.verb>process</Process_Rice.verb>
   <Process_Rice.gerund>processing</Process_Rice.gerund>
 
-  <Thresh_Polish2.label>脱穀精米</Thresh_Polish2.label>
+  <Thresh_Polish2.label>thresh husk and polish rice</Thresh_Polish2.label>
   <Thresh_Polish2.verb>thresh and polish</Thresh_Polish2.verb>
   <Thresh_Polish2.gerund>threshing and polishing</Thresh_Polish2.gerund>
 
-  <Threshing_Husk2.label>脱穀</Threshing_Husk2.label>
+  <Threshing_Husk2.label>thresh husk</Threshing_Husk2.label>
   <Threshing_Husk2.verb>thresh</Threshing_Husk2.verb>
   <Threshing_Husk2.gerund>threshing</Threshing_Husk2.gerund>
 
-  <Process_Rice2.label>精米</Process_Rice2.label>
+  <Process_Rice2.label>threshing milled rice</Process_Rice2.label>
   <Process_Rice2.verb>process</Process_Rice2.verb>
   <Process_Rice2.gerund>processing</Process_Rice2.gerund>
 
-  <DoBillsRiceCook.label>Cook rice</DoBillsRiceCook.label>
+  <DoBillsRiceCook.label>cook rice</DoBillsRiceCook.label>
   <DoBillsRiceCook.verb>cook</DoBillsRiceCook.verb>
   <DoBillsRiceCook.gerund>cooking at</DoBillsRiceCook.gerund>
 
